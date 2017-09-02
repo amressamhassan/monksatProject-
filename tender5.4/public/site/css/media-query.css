@@ -1,0 +1,107 @@
+@media (max-width:767px) 
+{    
+    .input-field input[type=search],
+    .input-field input[type=search]+label {margin-left: 185px}
+    
+    .alert p {font-size: 18px}
+    
+    .Tenders .box button {padding: 0}
+    
+    .suscripe button.red {margin: -106px 441px 0 35px}
+    
+    .suscripe .input-field input[type="text"] {margin-left: 102px}
+    
+    /* start subscribe */
+    .subscribe h1 {font-size: 43px}
+    
+    .subscribe .box {margin-bottom: 20px}
+    
+    nav #modal1 {width: 90%}
+    
+    footer .footer-img a {margin-top: 45px}
+    
+    /* start about */
+    .about p {font-size: 18px}
+    
+    .about i {font-size: 30px}
+    
+    .about h1 {font-size: 40px}
+}
+
+@media (min-width:768px) and (max-width:991px)
+{
+    nav #modal1 {width: 70%}
+    
+    .input-field input[type=search],
+    .input-field input[type=search]+label {margin-left: 206px}
+    
+    .suscripe .input-field input[type="text"] 
+    {
+        margin-left: 216px;
+    }
+    
+    .suscripe button.red {margin: -104px 441px 0 110px;}
+    
+    .header .col .s8 {margin-left: 157px}
+    
+    .alert p {font-size: 20px}
+    
+    footer .footer-img a {margin-top: 45px}
+    
+    /* start about */
+    .about p {font-size: 18px}
+}
+
+@media (min-width:992px) and (max-width:1199px)
+{    
+    nav .nav-wrapper img {left: 750px}
+    
+    .header .col .s8 {margin-left: 160px}
+    
+    .suscripe .input-field input[type="text"] 
+    {
+        margin-left: 290px;
+    }
+    
+    .suscripe button.red {margin: -109px 377px 0 185px}
+}
+
+@media (min-width:1200px)
+{
+    
+    .suscripe button.red {margin: -106px 441px 0 258px}
+}
+
+@media (max-width:588px)
+{
+    .input-field input[type=search],
+    .input-field input[type=search]+label {margin-left: 137px}
+    
+    .input-field input[type=search] {text-indent: 10px}
+    
+    .suscripe button.red {margin: -106px 0 -159px -186px}
+    
+    .suscripe .input-field input[type="text"] {margin-left: 106px}
+    
+    footer .footer-img a {margin-top: 45px}
+    
+    footer .social a {margin: 5px 30px}
+    
+    .header h1 {font-size: 100px}
+    
+    .header button {margin-left: -13px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
